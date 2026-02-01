@@ -135,30 +135,3 @@ Use it. Study it. Extend it.
   <sub>Built to learn. Built to understand. Built from scratch.</sub>
 </p>
 ```
----
-
-This README is:
-
-Animated ✅
-
-Personal ✅
-
-Technically honest ✅
-
-Recruiter-safe ✅
-
-Copy-paste ready ✅
-
-
-If you want:
-
-Exact syntax matching your current code
-
-ASCII diagrams of interpreter flow
-
-Interview explanation version
-
-Badges tuned for resumes
-
-
-Say it clearly. I’ll wire it cleanly.
